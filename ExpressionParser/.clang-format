@@ -1,0 +1,16 @@
+BasedOnStyle:  LLVM
+BreakBeforeBraces: Allman
+AlignAfterOpenBracket: Align
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+ContinuationIndentWidth: 2
+Cpp11BracedListStyle: true
+KeepEmptyLinesAtTheStartOfBlocks: false
+Language:        Cpp
+MaxEmptyLinesToKeep: 1
+NamespaceIndentation: All
+PenaltyExcessCharacter: 100
+PenaltyReturnTypeOnItsOwnLine: 1
+ColumnLimit: 120
